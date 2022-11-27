@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Yuri Pirola
 
-🎓 I'm an assistant professor at DISCo, University of Milano-Bicocca (Milan) working on computational problems arising from 📈 large quantities of data now available in Bioinformatics.
+🎓 I'm an associate professor at [DISCo](https://www.disco.unimib.it/), [University of Milano-Bicocca](https://www.unimib.it/) (Milan) working on computational problems arising from 📈 large quantities of data now available in Bioinformatics.
 
 🌱 My main interests involve the study of the computational complexity of optimization problems, the design of exact/approximation/parameterized algorithms for their resolution, and their implementation and experimentation.
 
